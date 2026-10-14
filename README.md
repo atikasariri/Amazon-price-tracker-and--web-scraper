@@ -16,7 +16,6 @@ _**Key Features**_
 _**Repository Structure**_
 
 ```text
-.
 ├── Amazon Web Scraping Project.ipynb  # Main Jupyter Notebook
 ├── requirements.txt                   # Required Python libraries
 ├── .gitignore                         # Configured to exclude local datasets & temp files
